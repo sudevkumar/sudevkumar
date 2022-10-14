@@ -52,7 +52,10 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudevkumat&theme=dark&border_radius=4.3)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudevkumat&theme=dark&border_radius=4.3)](https://git.io/streak-stats) -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudevkumar&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudevkumar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
