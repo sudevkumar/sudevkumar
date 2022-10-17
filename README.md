@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/sudev-kumar-6a51bb191" target='_blank'>
+  <a href="https://linkedin.com/in/sudev-kumar-6a51bb191">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
@@ -22,7 +22,7 @@
 
 👩‍💻 About Me :
 
-👋 I am Sudev Kumar a Front End Wev Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+👋 I am Sudev Kumar a Front End Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 👨‍💻 Most of my projects are available on <a href="https://github.com/sudevkumar">Github</a>.
 
