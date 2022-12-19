@@ -22,7 +22,7 @@
 
 👩‍💻 About Me :
 
-👋 I am Sudev Kumar a Front End Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+👋 I am Sudev Kumar an Aspiring MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 👨‍💻 Most of my projects are available on <a href="https://github.com/sudevkumar">Github</a>.
 
