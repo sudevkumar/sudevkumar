@@ -6,8 +6,8 @@
   <a href="https://linkedin.com/in/sudev-kumar-6a51bb191">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://sudevkumar.github.io/" target="_blank">
-    <img src="https://www.pngfind.com/pngs/m/501-5015034_portfolio-circle-hd-png-download.png" width="100px" height="28px" alt="LinkedIn Badge"/>
+  <a href="https://sudevkumar.github.io/" >
+    <img src="https://www.pngfind.com/pngs/m/501-5015034_portfolio-circle-hd-png-download.png" width="100px" height="28px" alt="LinkedIn Badge" target="_blank"/>
   </a>
 </div>
 
